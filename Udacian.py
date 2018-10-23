@@ -11,6 +11,6 @@ class Udacian():
                         + self.enrolment_name + " in " + self.nanodegree_name + " and hi is " + self.status_code)
 
 
-student_object =  Udacian("Selim","Riyad","FSND","MON","active")
+student_object =  Udacian("Selim","Riyadh","FSND","MON","active")
 print(student_object.print_udacian())
 
